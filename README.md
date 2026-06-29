@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<h1 align="center">👋 Hey there, I'm Amadeus</h1>
+<h1 align="center">👋 Hey there, I'm Amadeus/h1>
 
 <h3 align="center">🚀 IT Associate | Web Enthusiast | Tech Learner</h3>
 
@@ -21,7 +19,7 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiovaldoRatungalo&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmadeusSebastian&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 
 </div>
 
@@ -53,9 +51,8 @@
 
 <div align="center">
 
-![snake gif](https://github.com/TiovaldoRatungalo/AmadeusSebastian/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/AmadeusSebastian/AmadeusSebastian/blob/output/github-snake-dark.svg)
 
 </div>
 
 ---
--->
