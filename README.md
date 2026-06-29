@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm Amadeus/h1>
+<h1 align="center">👋 Hey there, I'm Amadeus</h1>
 
 <h3 align="center">🚀 IT Associate | Web Enthusiast | Tech Learner</h3>
 
